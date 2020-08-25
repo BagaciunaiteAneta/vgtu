@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: s1748c
+Build-Jdk: 1.8.0_73
+Created-By: Maven Integration for Eclipse
+
